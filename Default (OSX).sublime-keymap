@@ -8,5 +8,6 @@
 	{ "keys": ["option+up"], "command": "select_lines", "args": {"forward": false} },
 	{ "keys": ["option+down"], "command": "select_lines", "args": {"forward": true} },
 	{ "keys": ["super+shift+r"], "command": "reindent"},
+	{ "keys": ["super+;"], "command": "run_macro", "args": {"file": "function-semicolon"} }
 
 ]
