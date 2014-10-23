@@ -22,28 +22,39 @@
 
 			//application 2
 			{
-				"caption": "SeaMonkey",
-				"id": "side-bar-files-open-with-seamonkey",
-
-				"command": "side_bar_files_open_with",
-				"args": {
-									"paths": [],
-									"application": "C:\\Archivos de programa\\SeaMonkey\\seamonkey.exe", // WINNT
-									"extensions":"" //open all even folders
-								},
-				"open_automatically" : false // will close the view/tab and launch the application
-			},
-			//application n
-			{
 				"caption": "Chrome",
 				"id": "side-bar-files-open-with-chrome",
 
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Documents and Settings\\tito\\local\\Datos de programa\\Google\\Chrome\\Application\\chrome.exe",
-									"extensions":".*" //any file with extension
-						},
+									"application": "/Applications/Google Chrome.app",
+									"extensions":"html|htm"
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{
+				"caption": "Firefox",
+				"id": "side-bar-files-open-with-firefox",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/Applications/Firefox.app",
+									"extensions":"html|htm"
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{
+				"caption": "Safari",
+				"id": "side-bar-files-open-with-safari",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/Applications/Safari.app",
+									"extensions":"html|htm"
+								},
 				"open_automatically" : false // will close the view/tab and launch the application
 			},
 
