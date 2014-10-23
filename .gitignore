@@ -1,3 +1,4 @@
 *.cache
 *.system-ca-bundle
 *.last-run
+*.tmTheme

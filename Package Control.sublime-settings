@@ -5,12 +5,17 @@
 		"Can I Use",
 		"Emmet",
 		"FindKeyConflicts",
+		"GitGutter",
 		"Google Spell Check",
 		"Java Velocity",
 		"Keymaps",
 		"Sass",
 		"Select Quoted",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
 		"Tag",
 		"Trimmer"
 	]
