@@ -4,7 +4,7 @@
 	"auto_complete_delay": 150,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"detect_indentation": true,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
@@ -25,6 +25,7 @@
 	"match_brackets_angle": true,
 	"open_files_in_new_window": false,
 	"save_on_focus_lost": true,
+	"scroll_past_end": true,
 	"tranlate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
