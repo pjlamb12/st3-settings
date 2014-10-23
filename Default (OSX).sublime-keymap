@@ -1,0 +1,12 @@
+[
+	{ "keys": ["super+shift+down"], "command": "duplicate_line" },
+	{ "keys": ["super+shift+up"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+alt+i"], "command": "use_it" },
+	{"keys": ["super+ctrl+/"], "command": "find_keymap"},
+	{ "keys": ["option+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["option+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["super+shift+r"], "command": "reindent"},
+
+]
