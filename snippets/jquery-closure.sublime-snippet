@@ -2,7 +2,7 @@
 	<content><![CDATA[
 (function (\$) {
 
-	${1}
+
 
 })(this.jQuery);
 ]]></content>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 \$(${1:element}).on('${2:action}', function (${3:argument}) {
-	${4}
+
 });
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

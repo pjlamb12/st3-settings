@@ -2,6 +2,6 @@
 	<content><![CDATA[
 e.preventDefault();
 ]]></content>
-	<tabTrigger>prevent</tabTrigger>
+	<tabTrigger>epd</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
