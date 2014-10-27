@@ -16,4 +16,5 @@ int main(){
 ]]></content>
 	<tabTrigger>cpp</tabTrigger>
 	<scope>source.c++</scope>
+	<description>Basic setup for a c++ program</description>
 </snippet>

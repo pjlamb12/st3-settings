@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-function ${1:functionName}(${2:e}) {
-	$0
-}
+for( ${1:item} in ${2:array} ){
+
+};
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>jsfun</tabTrigger>
+	<tabTrigger>foreach</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.js</scope>
+	<!-- <scope>source.python</scope> -->
 </snippet>
