@@ -13,5 +13,6 @@
 	{ "keys": ["ctrl+super+b"], "command": "clear_bookmarks" },
 	{ "keys": ["super+b"], "command": "next_bookmark" },
 	{ "keys": ["super+shift+b"], "command": "prev_bookmark" },
-
+	{ "keys": ["super+k"], "command": "swap_case" },
+	{ "keys": ["super+shift+r"],  "command": "reindent" }
 ]
