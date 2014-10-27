@@ -1,11 +1,10 @@
 [
 	{
-		"args": null,
-		"command": "left_delete"
-	},
-	{
-		"args": null,
-		"command": "left_delete"
+		"args":
+		{
+			"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+		},
+		"command": "run_macro_file"
 	},
 	{
 		"args":
