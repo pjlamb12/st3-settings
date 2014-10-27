@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+e.preventDefault();
+]]></content>
+	<tabTrigger>epd</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
