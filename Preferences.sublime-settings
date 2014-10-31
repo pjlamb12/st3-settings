@@ -7,8 +7,10 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
 	"detect_indentation": true,
+	"drag_text": false,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"find_selected_text": true,
 	"font_size": 11,
@@ -22,8 +24,8 @@
 	{
 		"show_pretty_keys": true
 	},
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"match_brackets_angle": true,
 	"open_files_in_new_window": false,
 	"save_on_focus_lost": true,
