@@ -8,7 +8,7 @@
 	{ "keys": ["option+up"], "command": "select_lines", "args": {"forward": false} },
 	{ "keys": ["option+down"], "command": "select_lines", "args": {"forward": true} },
 	{ "keys": ["super+shift+r"], "command": "reindent"},
-	{ "keys": ["super+;"], "command": "run_macro", "args": {"file": "function-semicolon"} },
+	{ "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/function-semicolon.sublime-macro"} },
 	{ "keys": ["ctrl+b"], "command": "toggle_bookmark" },
 	{ "keys": ["ctrl+super+b"], "command": "clear_bookmarks" },
 	{ "keys": ["super+b"], "command": "next_bookmark" },
