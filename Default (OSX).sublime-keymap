@@ -15,6 +15,7 @@
 	{ "keys": ["super+shift+b"], "command": "prev_bookmark" },
 	{ "keys": ["super+k"], "command": "swap_case" },
 	{ "keys": ["super+shift+r"],  "command": "reindent" },
-	{ "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} }
+	{ "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
+	{ "keys": ["super+t"], "command": "new_file" }
 
 ]
