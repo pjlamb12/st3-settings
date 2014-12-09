@@ -8,9 +8,12 @@
 		"Color Highlighter",
 		"CSS Media Query Snippets",
 		"Emmet",
+		"FixMyJS",
 		"GitGutter",
 		"Google Spell Check",
 		"HTML-CSS-JS Prettify",
+		"Jade",
+		"Jade Snippets",
 		"Java Velocity",
 		"JavaScript Snippets",
 		"Keymaps",
@@ -19,6 +22,7 @@
 		"Sass",
 		"Select Quoted",
 		"SideBarEnhancements",
+		"Stylus",
 		"Tag",
 		"Trimmer"
 	]
