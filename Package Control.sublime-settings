@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
 		"ASCII Replacer",
 		"AutoCompleteJS",
 		"AutoFileName",
