@@ -20,6 +20,11 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"keymaps":
 	{
 		"show_pretty_keys": true
