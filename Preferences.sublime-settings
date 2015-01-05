@@ -3,6 +3,17 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 150,
 	"auto_find_in_selection": true,
+	"binary_file_patterns":
+	[
+		".DS_Store",
+		"node_modules/",
+		"tmp/",
+		"_tmp/",
+		"*.png",
+		"*.psd",
+		"*.ai",
+		"*.min.js"
+	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
