@@ -9,6 +9,7 @@
 	{ "keys": ["option+down"], "command": "select_lines", "args": {"forward": true} },
 	{ "keys": ["super+shift+r"], "command": "reindent"},
 	{ "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/function-semicolon.sublime-macro"} },
+	{ "keys": ["super+,"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/function-comma.sublime-macro"} },
 	{ "keys": ["ctrl+b"], "command": "toggle_bookmark" },
 	{ "keys": ["ctrl+super+b"], "command": "clear_bookmarks" },
 	{ "keys": ["super+b"], "command": "next_bookmark" },
@@ -16,5 +17,7 @@
 	{ "keys": ["super+shift+r"],  "command": "reindent" },
 	{ "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
 	{ "keys": ["super+t"], "command": "new_file" },
+	{ "keys": ["ctrl+i"], "command": "indent_and_braces", "args": { "from_cursor": true} },
+	{ "keys": ["ctrl+j"], "command": "indent_and_braces", "args": { "from_cursor": false} },
 
 ]
