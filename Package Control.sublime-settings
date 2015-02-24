@@ -2,16 +2,12 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"AngularJS",
 		"ASCII Replacer",
 		"AutoFileName",
+		"Autoprefixer",
 		"BracketHighlighter",
 		"Can I Use",
 		"Color Highlighter",
@@ -23,6 +19,7 @@
 		"HTML Extended",
 		"HTML Nest Comments",
 		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
 		"Indent and braces",
 		"Jade",
 		"Jade Snippets",
