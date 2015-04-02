@@ -19,6 +19,7 @@
 	{ "keys": ["super+t"], "command": "new_file" },
 	{ "keys": ["ctrl+i"], "command": "indent_and_braces", "args": { "from_cursor": true} },
 	{ "keys": ["ctrl+j"], "command": "indent_and_braces", "args": { "from_cursor": false} },
+	{ "keys": ["option+'"], "command": "change_quotes" },
 	{ "keys": ["super+alt+p"], "command": "autoprefixer" }
 
 ]

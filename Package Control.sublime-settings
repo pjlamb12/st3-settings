@@ -10,6 +10,7 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Can I Use",
+		"ChangeQuotes",
 		"Color Highlighter",
 		"CSS Media Query Snippets",
 		"Emmet",
@@ -27,6 +28,7 @@
 		"JavaScript Snippets",
 		"Keymaps",
 		"Liquid",
+		"LiveStyle",
 		"Monokai Extended",
 		"Package Control",
 		"Pretty JSON",
@@ -35,6 +37,8 @@
 		"SideBarEnhancements",
 		"Stylus",
 		"Tag",
-		"Trimmer"
+		"Trimmer",
+		"Unsplash",
+		"WordPress"
 	]
 }
