@@ -1,8 +1,10 @@
 [
 	{ "keys": ["super+shift+down"], "command": "duplicate_line" },
+	{ "keys": ["alt+d"], "command": "goto_definition" },
 	{ "keys": ["super+shift+up"], "command": "duplicate_line" },
 	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" },
 	{ "keys": ["super+alt+i"], "command": "use_it" },
 	{"keys": ["super+ctrl+/"], "command": "find_keymap"},
 	{ "keys": ["option+up"], "command": "select_lines", "args": {"forward": false} },
@@ -20,6 +22,7 @@
 	{ "keys": ["ctrl+i"], "command": "indent_and_braces", "args": { "from_cursor": true} },
 	{ "keys": ["ctrl+j"], "command": "indent_and_braces", "args": { "from_cursor": false} },
 	{ "keys": ["option+'"], "command": "change_quotes" },
-	{ "keys": ["super+alt+p"], "command": "autoprefixer" }
+	{ "keys": ["super+alt+p"], "command": "autoprefixer" },
+	{ "keys": ["super+k", "super+t"], "command": "title_case" }
 
 ]

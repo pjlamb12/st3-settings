@@ -2,31 +2,10 @@
 	{
 		"args":
 		{
-			"to": "bol"
-		},
-		"command": "move_to"
-	},
-	{
-		"args":
-		{
-			"to": "bol"
-		},
-		"command": "move_to"
-	},
-	{
-		"args":
-		{
 			"by": "lines",
 			"forward": true
 		},
 		"command": "move"
-	},
-	{
-		"args":
-		{
-			"to": "eol"
-		},
-		"command": "move_to"
 	},
 	{
 		"args":
