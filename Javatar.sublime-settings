@@ -1,18 +1,14 @@
 {
 	"javatar_gp": 0,
-	"jdk_version":
-	{
-		"use": ""
-	},
 	"message_id": 20,
 	"project_data":
 	{
-		"3":
+		"2":
 		{
 			"folders":
 			[
 				{
-					"path": "/Users/plamb/Library/Application Support/Sublime Text 3/Packages/User"
+					"path": "/Users/plamb/Projects/Glasses.com/white-label-templates"
 				}
 			]
 		}
