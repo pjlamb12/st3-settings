@@ -1,9 +1,15 @@
 <snippet>
 	<content><![CDATA[
-<img src="http://placehold.it/${1:150}x${2:150}" alt="${3}" />
+<div class="hamburger-menu">
+	<a href="#" class="toggle-mobile-nav">
+		<span class="bar bar-1"></span>
+		<span class="bar bar-2"></span>
+		<span class="bar bar-3"></span>
+	</a>
+</div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>phit</tabTrigger>
+	<tabTrigger>hamburger-menu</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

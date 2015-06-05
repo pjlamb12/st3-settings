@@ -1,0 +1,55 @@
+<snippet>
+	<content><![CDATA[
+.hamburger-menu {
+	width: 22px;
+	height: 15px;
+	position: fixed;
+	z-index: 12;
+	top: 28px;
+	right: 53px;
+	display: none;
+}
+.hamburger-menu a {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.hamburger-menu .bar {
+	width: 22px;
+	height: 3px;
+	display: block;
+	position: absolute;
+	background-color: #4d4d4d;
+	transition: all .4s ease;
+	transition: background-color .2s ease-in-out;
+	transform-origin: 10% 50% 0;
+}
+.hamburger-menu:hover .bar {
+	background-color: #f0454d;
+}
+.hamburger-menu .bar-1 {
+	top: 0;
+}
+.hamburger-menu .bar-2 {
+	top: 50%;
+	margin-top: -2px;
+}
+.hamburger-menu .bar-3 {
+	bottom: 0;
+}
+.hamburger-menu.mobile-nav-open .bar-1 {
+	transform: rotate(45deg);
+}
+.hamburger-menu.mobile-nav-open .bar-2 {
+	opacity: 0;
+}
+.hamburger-menu.mobile-nav-open .bar-3 {
+	transform: rotate(-45deg);
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hamburger-menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
