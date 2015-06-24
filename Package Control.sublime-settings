@@ -42,9 +42,14 @@
 		"Select Quoted",
 		"SideBarEnhancements",
 		"Stylus",
+		"Sublime-CSS3",
 		"Tag",
 		"Trimmer",
 		"Unsplash",
 		"WordPress"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
 	]
 }

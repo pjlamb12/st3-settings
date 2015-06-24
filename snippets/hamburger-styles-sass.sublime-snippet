@@ -1,0 +1,59 @@
+<snippet>
+	<content><![CDATA[
+.hamburger-menu {
+	width: 22px;
+	height: 15px;
+	position: absolute;
+	z-index: 12;
+	top: 42px;
+	right: 40px;
+
+	&::hover .bar {
+		background-color: #f0454d;
+	}
+	a {
+		position: relative;
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+	.bar {
+		width: 22px;
+		height: 3px;
+		display: block;
+		position: absolute;
+		background-color: $primary-color;
+		@include transition(all .4s ease, background-color .2s ease-in-out);
+		@include transform-origin (10% 50% 0);
+	}
+	.bar-1,
+	.bar-2,
+	.bar-3 {
+		@include transition(all .4s ease);
+	}
+	.bar-1 {
+		top: 0;
+	}
+	.bar-2 {
+		top: 8px;
+		margin-top: -2px;
+	}
+	.bar-3 {
+		top: 12px;
+	}
+	.slide-nav-open .bar-1 {
+		@include transform(rotate(45deg));
+	}
+	.slide-nav-open .bar-2 {
+		opacity: 0;
+	}
+	.slide-nav-open .bar-3 {
+		@include transform(rotate(-45deg));
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hamburger-menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass</scope>
+</snippet>
