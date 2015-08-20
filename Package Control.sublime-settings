@@ -53,6 +53,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/i-akhmadullin/Sublime-CSS3"
+		"https://github.com/i-akhmadullin/Sublime-CSS3",
+		"https://github.com/addyosmani/sublime-fixmyjs"
 	]
 }
