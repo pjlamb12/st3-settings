@@ -8,6 +8,7 @@
 		"ASCII Replacer",
 		"AutoFileName",
 		"Autoprefixer",
+		"Babel",
 		"BracketHighlighter",
 		"Can I Use",
 		"ChangeQuotes",
@@ -29,13 +30,16 @@
 		"JavaScript Snippets",
 		"Keymaps",
 		"Laravel Blade Highlighter",
+		"LESS",
 		"LiveStyle",
 		"Monokai Extended",
+		"MultiEditUtils",
 		"Origami",
 		"Package Control",
 		"PHP Syntax Checker",
 		"Preferences Editor",
 		"Pretty JSON",
+		"ReactJS Snippets",
 		"Sass",
 		"SASS Snippets",
 		"SassBeautify",
@@ -45,6 +49,7 @@
 		"Stylus",
 		"Sublime-CSS3",
 		"SyncedSideBar",
+		"TabsExtra",
 		"Tag",
 		"Trimmer",
 		"TypeScript",
@@ -53,6 +58,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/i-akhmadullin/Sublime-CSS3"
+		"https://github.com/i-akhmadullin/Sublime-CSS3",
+		"https://github.com/addyosmani/sublime-fixmyjs"
 	]
 }
