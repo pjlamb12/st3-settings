@@ -1,3 +1,7 @@
 {
+	"extensions":
+	[
+		"cshtml"
+	],
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }
