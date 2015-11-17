@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,6 +9,7 @@
 		"ASCII Replacer",
 		"AutoFileName",
 		"Autoprefixer",
+		"Babel",
 		"BracketHighlighter",
 		"Can I Use",
 		"ChangeQuotes",
