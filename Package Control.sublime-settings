@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AngularJS",
 		"ASCII Replacer",
 		"AutoFileName",
@@ -40,6 +41,7 @@
 		"PHP Syntax Checker",
 		"Preferences Editor",
 		"Pretty JSON",
+		"Razor",
 		"React ES6 Snippets",
 		"ReactJS Snippets",
 		"Sass",
