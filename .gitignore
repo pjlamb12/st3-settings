@@ -3,3 +3,4 @@
 *.last-run
 *.merged-ca-bundle
 *.user-ca-bundle
+.DS_Store

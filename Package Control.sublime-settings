@@ -14,10 +14,12 @@
 		"BracketHighlighter",
 		"Can I Use",
 		"ChangeQuotes",
+		"ChannelRepositoryTools",
 		"Cheat Sheets",
 		"Color Highlighter",
 		"Console Wrap for js",
 		"CSS Media Query Snippets",
+		"EJS",
 		"Emmet",
 		"FixMyJS",
 		"GitGutter",
@@ -31,6 +33,8 @@
 		"Jade Snippets",
 		"Java Velocity",
 		"JavaScript Snippets",
+		"JSCS-Formatter",
+		"JSHint",
 		"Keymaps",
 		"LESS",
 		"LiveStyle",
@@ -51,6 +55,7 @@
 		"Siteleaf Liquid Syntax",
 		"Stylus",
 		"Sublime-CSS3",
+		"sublime-html2jade",
 		"SyncedSideBar",
 		"TabsExtra",
 		"Tag",
@@ -63,6 +68,7 @@
 	"repositories":
 	[
 		"https://github.com/i-akhmadullin/Sublime-CSS3",
-		"https://github.com/addyosmani/sublime-fixmyjs"
+		"https://github.com/addyosmani/sublime-fixmyjs",
+		"https://github.com/anderson916/sublime-html2jade"
 	]
 }
