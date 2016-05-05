@@ -30,5 +30,7 @@
 	{ "keys": ["alt+shift+left"], "command": "move_to", "args": {"to": "bol", "extend": true} },
 	{ "keys": ["alt+shift+right"], "command": "move_to", "args": {"to": "eol", "extend": true} },
 	{ "keys": ["shift+ctrl+k"], "command": "rename_tag", "context": [{ "key": "emmet_action_enabled.rename_tag" }]},
-	{"keys": ["shift+ctrl+w"], "command": "wrap_as_you_type", "context": [{"operand": false, "operator": "equal", "match_all": true, "key": "setting.is_widget"}, {"match_all": true, "key": "emmet_action_enabled.wrap_as_you_type"}]}
+	{"keys": ["shift+ctrl+w"], "command": "wrap_as_you_type", "context": [{"operand": false, "operator": "equal", "match_all": true, "key": "setting.is_widget"}, {"match_all": true, "key": "emmet_action_enabled.wrap_as_you_type"}]},
+	{"keys": ["ctrl+alt+right"], "command": "next_view"},
+	{"keys": ["ctrl+alt+left"], "command": "prev_view"}
 ]
