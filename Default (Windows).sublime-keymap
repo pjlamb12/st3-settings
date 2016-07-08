@@ -24,6 +24,7 @@
 	{ "keys": ["ctrl+alt+p"], "command": "autoprefixer" },
 	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
 	{ "keys": ["ctrl+4"], "command": "run_macro_file", "args": { "file": "res://Packages/User/macros/to-4.sublime-macro" }},
+	{ "keys": ["ctrl+2"], "command": "run_macro_file", "args": { "file": "res://Packages/User/macros/to-2.sublime-macro" }},
 	{ "keys": ["ctrl+alt+up"], "command": "swap_line_up" },
 	{ "keys": ["ctrl+alt+down"], "command": "swap_line_down" },
 	{ "keys": ["alt+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
