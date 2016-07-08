@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Angular 2 Snippets (John Papa)",
 		"AngularJS",
 		"ASCII Replacer",
 		"AutoFileName",
@@ -18,9 +19,10 @@
 		"Cheat Sheets",
 		"Color Highlighter",
 		"Console Wrap for js",
+		"CSS Color Converter",
 		"CSS Media Query Snippets",
-		"EJS",
 		"DiffView",
+		"EJS",
 		"Emmet",
 		"FixMyJS",
 		"GitGutter",
@@ -42,6 +44,7 @@
 		"LiveStyle",
 		"MoveTab",
 		"MultiEditUtils",
+		"NativeScript Snippets",
 		"Origami",
 		"Package Control",
 		"PHP Syntax Checker",
