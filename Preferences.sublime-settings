@@ -25,10 +25,10 @@
 		"*.woff"
 	],
 	"bold_folder_labels": true,
-	"caret_style": "phase",
 	"caret_extra_bottom": 2,
 	"caret_extra_top": 2,
 	"caret_extra_width": 3,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"create_window_at_startup": false,
 	"detect_indentation": true,
@@ -79,6 +79,6 @@
 	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
 	"wide_caret": true,
+	"word_wrap": true
 }
