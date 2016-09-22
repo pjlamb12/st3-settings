@@ -27,7 +27,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 2,
 	"caret_extra_top": 2,
-	"caret_extra_width": 3,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"create_window_at_startup": false,
@@ -35,14 +35,14 @@
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"find_selected_text": true,
 	"font_face": "Space Mono",
 	"font_options":
 	[
 		"gray_antialias"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -62,6 +62,7 @@
 		"*.map",
 		"*.min.*"
 	],
+	"indent_to_bracket": true,
 	"keymaps":
 	{
 		"show_pretty_keys": true
