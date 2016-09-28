@@ -55,6 +55,7 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"indent_to_bracket": true,
 	"index_exclude_patterns":
 	[
 		"*.log",
@@ -62,7 +63,6 @@
 		"*.map",
 		"*.min.*"
 	],
-	"indent_to_bracket": true,
 	"keymaps":
 	{
 		"show_pretty_keys": true
